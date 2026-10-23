@@ -1,0 +1,10 @@
+build/
+debug/
+release/
+*.user
+*.o
+*.exe
+Makefile
+Makefile.*
+.qmake.stash
+.qtc_clangd/
